@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin: 0 auto 2rem;
+  background-color: black;
+  padding: 1rem;
+  color: lightgray;
+}
+
+.all-people {
+  background-color: gray;
+  max-width: 25rem;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  box-shadow: 2px 1px 8px black;
+}
